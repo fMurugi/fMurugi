@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fiona Murugi</h1>
 <h3 align="center">A passionate Web developer from Kenya</h3>
 
-- 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m currently learning **Golang** 
 
 - 👨‍💻 All of my projects are available at [https://fiona-murugi.netlify.app/](https://fiona-murugi.netlify.app/)
 
